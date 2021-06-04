@@ -1,5 +1,5 @@
 # contacts-list
-Project made in Angular. A list of contacts is requested from am api and responsed by the GET method.
+Project made in Angular. A list of contacts is requested from an api and responsed by the GET method.
 # AngularApi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.11.
